@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: aqua;
+}
+nav{
+  padding: 30;
+  padding-left: 50;
+  
+  
+}
+nav a{
+  border-style: solid;
+  float: left;
+  display: block;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+  border-radius: 30px;
+
+}
+.home{
+  font-size: 30px;
+  text-align: center;
+  
+  
+}
+.home h3{
+  text-decoration: underline;
+}
+.Gallery{
+  text-align: center;
+  font-size: 30px;
+  text-decoration: underline;
+}
+.Menu{
+  text-align: center;
+  font-size: 30px;
+}
+.Menu figcaption{
+  
+  color: white;
+  font-style: italic;
+  font-size: 20px;
+
+}
